@@ -139,6 +139,7 @@ Temporary Items
 
 ### CMake ###
 cmake-build-debug/CMakeCache.txt
+cmake-build-debug
 CMakeFiles
 CMakeScripts
 Makefile
