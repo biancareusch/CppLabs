@@ -1,3 +1,0 @@
-C:/Users/Bianca/CLionProjects/cppLabs/cmake-build-debug/CMakeFiles/cppLabs.dir
-C:/Users/Bianca/CLionProjects/cppLabs/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Bianca/CLionProjects/cppLabs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
